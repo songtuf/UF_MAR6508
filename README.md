@@ -1,1 +1,1 @@
-# UF_MAR6508
+# Repo for MAR6508, University of Florida
